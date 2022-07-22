@@ -1,5 +1,7 @@
 ### Hi there, this is TANUPRIYA👋
 
+![](https://github.com/tanupriya9102/tanupriya9102/blob/main/giphy.gif)
+
 [![Tanupriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanupriya9102&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Web development
