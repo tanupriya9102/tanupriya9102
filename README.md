@@ -1,10 +1,10 @@
 ### Hi there, this is TANUPRIYA👋
 
-![](https://github.com/tanupriya9102/tanupriya9102/blob/main/gifrm.gif)
+<!-- ![](https://github.com/tanupriya9102/tanupriya9102/blob/main/gifrm.gif) -->
 
 [![Tanupriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanupriya9102&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on Web development
+- 🔭 I’m currently working on Machine Learning 
 - 🌱 I’m currently learning Data Structures and Algorithms in Python
 - 📫 How to reach me: pathak.tanupriya@gmail.com
 
