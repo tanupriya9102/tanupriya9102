@@ -4,7 +4,7 @@
 
 <!-- [![Tanupriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanupriya9102&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
  -->
-- 🔭 I’m currently working on Machine Learning 
+- 🔭 I’m currently working on Machine Learning and NLP
 - 🌱 I’m currently learning Data Structures and Algorithms in Python
 - 📫 How to reach me: pathak.tanupriya@gmail.com
 
